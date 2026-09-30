@@ -3,7 +3,20 @@
 Este es el repositorio de Gabriela Bacchiani para la materia Aprendizaje Automático, perteneciente a la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial.
 Contendrá las actividades correspondientes a la cursada, divididas por semana de clases.
 
-# Clase 4 – Aprendizaje Automático: Aprendizaje Supervisado
+# Clase 2 – Adquisición de datos
+
+Repositorio con las actividades de la Clase 2: Adquisición de datos e Inspección y visualización de datos.
+
+## Contenido del repositorio
+
+- AA_BACCHIANI_CLASE2_EJERCICIO1.ipynb
+- AA_BACCHIANI_CLASE2_EJERCICIO2.ipynb
+- Automóvil.csv
+- clientes.json
+- inventario.xlsx
+- ventas.csv
+
+# Clase 4 – Aprendizaje Supervisado
 
 Repositorio con las actividades de la Clase 4: regresión lineal y regresión logística.
 
