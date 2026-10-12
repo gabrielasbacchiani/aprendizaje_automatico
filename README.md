@@ -26,6 +26,17 @@ Repositorio con las actividades de la Clase 4: regresión lineal y regresión lo
 - `Regresion_logistica.ipynb` — Actividad 2: regresión logística
 - `dataset/academic_survival_longitudinal.csv` — dataset usado en la Actividad 1
 - `dataset/Actividad2_usuarios_win_mac_lin.csv` — dataset usado en la Actividad 2 (provisto por la cátedra)
+- CLASE4_README.md : Información acerca del trabajo realizado
+
+# Clase 6 – Comparación de dos modelos de clasificación
+
+Repositorio con las actividades de la Clase 6: Grabación de video comparando dos modelos de clasificación: Regresión logística y Árbol de decisión
+
+## Contenido del repositorio
+
+- CLASE6_AA.ipynb : Notebook
+- students_dropout_academic_success.csv : dataset utilizado
+- Readme.md : Información acerca del trabajo realizado
 
 ## Autora
 
