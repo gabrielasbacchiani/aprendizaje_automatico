@@ -1,11 +1,11 @@
 # Predicción de abandono y éxito académico: regresión logística vs. árbol de decisión
 
-Trabajo práctico de la materia **Aprendizaje Automático** (Tecnicatura en Ciencias de Datos e Inteligencia Artificial, Centro Politécnico Superior Malvinas Argentinas).
+Trabajo práctico de la materia **Aprendizaje Automático**
 
 Se comparan dos modelos de clasificación supervisada para predecir si un estudiante universitario **se gradúa, abandona o sigue matriculado**.
 
-- 📓 **Notebook:** [CLASE6_AA.ipynb](CLASE6_AA/CLASE6_AA.ipynb) <!-- ajustar al nombre/ruta real del archivo -->
-- 🎥 **Video (5 min):** [COMPLETAR ENLACE]
+- 📓 **Notebook:** CLASE6_AA/NOTEBOOKS/CLASE6_AA.ipynb
+- 🎥 **Video (5 min):** https://drive.google.com/drive/folders/1y0jpGvSrdDd6ti7K2u5pDwJ1y-dmvpYH?usp=drive_link
 
 ## Problema
 
@@ -21,7 +21,7 @@ Predecir la variable `target` (3 clases: `Graduate`, `Dropout`, `Enrolled`) a pa
 | Variables predictoras | 36 |
 | Tipos | 18 numéricas, 10 categóricas (códigos), 8 binarias |
 | Valores nulos / duplicados | ninguno |
-| Archivo en este repo | [`CLASE6_AA/DATASETS/students_dropout_academic_success.csv`](CLASE6_AA/DATASETS/students_dropout_academic_success.csv) |
+| Archivo en este repo | CLASE6_AA/DATASETS/students_dropout_academic_success.csv |
 
 ## Metodología
 
@@ -62,19 +62,6 @@ La **regresión logística** resuelve mejor el problema: supera al árbol en tod
 2. Ejecutar **Entorno de ejecución → Ejecutar todo**. El notebook carga el dataset directamente desde este repositorio.
 3. Librerías: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `scikit-learn`.
 
-## Estructura del repositorio
-
-```
-aprendizaje_automatico/
-└── CLASE6_AA/
-    ├── CLASE6_AA.ipynb
-    └── DATASETS/
-        └── students_dropout_academic_success.csv
-```
-
-## Fuente de los datos
-
-Realinho, V., et al. (2022). *Predicting Student Dropout and Academic Success*. **Data**, 7(11), 146. MDPI. <!-- completar la lista de autores copiándola del paper -->
 
 ## Autora
 
