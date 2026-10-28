@@ -38,6 +38,16 @@ Repositorio con las actividades de la Clase 6: Grabación de video comparando do
 - students_dropout_academic_success.csv : dataset utilizado
 - Readme.md : Información acerca del trabajo realizado
 
+# Clase 8 – Segmentación de clientes con K-Means
+
+Aprendizaje no supervisado: agrupamiento de 700 clientes según su comportamiento de compra, sin etiquetas previas.
+
+## Contenido del repositorio
+
+-   Clase8_AA_Bacchiani.ipynb : Notebook
+-   dataset_segmentacion_clientes.csv : dataset proporcionado por la cátedra
+-   Readme.md : Información acerca del trabajo realizado
+
 ## Autora
 
 Gabriela Bacchiani
